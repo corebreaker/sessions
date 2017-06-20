@@ -4,7 +4,7 @@ A secure, cookie based session Manager implementation.
 
 */
 
-package session
+package sessions
 
 import (
     "net/http"

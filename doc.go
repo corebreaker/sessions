@@ -114,4 +114,4 @@ cron.yaml file of the demo shows how a cron job can be defined to purge expired 
 https://github.com/icza/session/blob/master/gae_session_demo/gae_session_demo.go
 
 */
-package session
+package sessions
